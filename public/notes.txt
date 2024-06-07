@@ -1,0 +1,7 @@
+.firebaserc
+
+{
+  "projects": {
+    "default": "glakh-web"
+  }
+}
