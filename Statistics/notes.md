@@ -19,7 +19,7 @@
 - **Association**: There is an association between two variables - if knowing the value of one variable helps predict the value of the other.
   
 ### Analyzing Quantitiative Data
-- Dotplots, Stemplot, Histogram
+- Dotplots, Stemplot, Histogram, 
 - Measure: shape,center, spread, outliers (SOCS)
 - **Outliers**: an individual value that falls outside the overall pattern.
 - **Symmetric Distrbution**: if the right and left sides of the graph are approx. mirror images of each other.
@@ -31,4 +31,7 @@
 - **Median**: Midpoint of a distribution.
 - Mean and median are same for symmetric distribution
 - **Measuring Spread**:  Range and Interquartile Range(IQR). IQR = Q3 (third quartile) - Q1 (first quartile). Q3 - median of the observations that are to the right of the median. Q1 - median of the observations that are to left of the median.
+- **Outlier**: Any values not falling between Q1-1.5 * IQR and Q3+1.5 * IQR
+- **5 number Summary**: Minimum, Q1, Median, Q3, Maximum
+- BoxPlot
 - 

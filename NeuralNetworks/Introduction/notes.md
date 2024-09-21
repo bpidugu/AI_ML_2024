@@ -14,8 +14,7 @@
  - - 86 Billions Neurons in Brain
  - A preception is the simplest neural network unit, taking multiple binary inputs and producing a single binary output. This is foundational to early neural nwtwork development.
  - Perceptron
- - Multi-Layer Perceptron
-
+ - **Epoch**: The number of times the entire training dataset is processed by the learning algorithm during training.
 # Training
 
 - Gradient Descent
